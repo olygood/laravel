@@ -4,8 +4,9 @@ installation exercices laravel
 ### Première étape :  
 > - Wamp server  
 avec toutes les extensions chargées  
-dans la doc de laravel https://laravel.com/docs/ il y a une version de php à respeceter ici : PHP >= 7.1.3
-Server Requirements : 
+dans la doc de laravel https://laravel.com/docs/ il y a une version de laravel 5.7 et de php à respeceter ici : PHP >= 7.1.3  
+tous les fichiers doivent être présent :  
+**Server Requirements :** 
 - PHP >= 7.1.3
 - OpenSSL PHP Extension
 - PDO PHP Extension
